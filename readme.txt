@@ -1,4 +1,4 @@
-favorit page.alfredworkflowのメモ
+Favorit Pages.alfredworkflowのメモ
 
 機能：お気に入りページの登録・ランダム表示
 
