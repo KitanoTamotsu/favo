@@ -1,2 +1,0 @@
-# favo
-Alfred workflow
