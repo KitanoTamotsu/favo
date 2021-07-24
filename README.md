@@ -4,8 +4,8 @@
 <br><img width="600" src="https://user-images.githubusercontent.com/40127279/126867726-a3dc3141-44b1-476e-924a-a9eb8b971833.png">
 
 ### 1.フローデザイン
-　・キーワード起動のパラメータによって、登録、編集、表示をそれぞれ処理する
-<br>　分岐を担うConditional　　　
+　・キーワード起動の引数によって、登録、編集、表示をそれぞれ処理する
+<br>　分岐を担うConditionalは下記の通り引数{query}を評価して分岐させています
 <br>　<img width="600" src="https://user-images.githubusercontent.com/40127279/126867884-1caeeac6-582a-4d7f-967c-7955c217c713.png">
 <br>　　　
 <br>　実装で利用した細かな手法
