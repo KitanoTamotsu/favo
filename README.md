@@ -55,7 +55,7 @@
 <br>　
 <br>　Randomユーティリティを見てください
 <br>　Random:としてword from listを設定してWords:の一覧には{query}とあるだけです
-<br>　<img width="480" src="https://user-images.githubusercontent.com/40127279/126869093-5923c0a1-7552-43ba-92d3-4cd1977f3080.png">
+<br>　<img width="600" src="https://user-images.githubusercontent.com/40127279/126869093-5923c0a1-7552-43ba-92d3-4cd1977f3080.png">
 <br>　そうです。このオブジェクトの前段のフローであるRunScriptの標準出力にリストを
 <br>　書き出してセットするのです
 <br>　ではそのRun Scriptを見てみましょう（黄色いRunScriptです）
