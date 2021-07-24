@@ -26,7 +26,8 @@
 <br>　ArgandVars
 <br>　<img width="600"  src="https://user-images.githubusercontent.com/40127279/126869028-9cddf591-a05d-411e-b174-fb8072217702.png">
 <br>　
-<br>　次のRunScriptでは、表示しているURLをechoで標準出力して、テキストファイルに追加します
+<br>　次のRunScriptでは、表示しているURLをechoで標準出力して、
+<br>　AppendtoFileでテキストファイルに追加します
 <br>　
 <br>　RunScript
 <br>　<img width="600" src="https://user-images.githubusercontent.com/40127279/126869033-0c6782e1-a84e-4fc0-9adb-12e58b63d890.png">
@@ -37,7 +38,7 @@
 <br>　メッセージを表示させます。このとき
 <br>　テキストファイルの場所は、AppendtoFileオブジェクトの標準出力の{query}
 <br>　サイトのタイトルは、ArgandVarsで設定した{var:title}を使用しています　
-PostNotificaftion
+<br>　PostNotificaftion
 <br>　<img width="600" src="https://user-images.githubusercontent.com/40127279/126869051-9855eb0d-c5f1-48e3-aa3a-834655fea2ab.png">
 
 ### 3.ファイルを編集させる
