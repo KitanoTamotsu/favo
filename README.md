@@ -1,4 +1,3 @@
-## 　　Lesson13.　randomユーティリティの選択肢を動的に設定する 
 #### 開発メモ
 ワークフロー
 <br><img width="600" src="https://user-images.githubusercontent.com/40127279/126867726-a3dc3141-44b1-476e-924a-a9eb8b971833.png">
